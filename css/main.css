@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+body{
+	font-family: sans-serif;
+}
+
+
+
+h1{
+	text-align: center;
+	color: forestgreen;
+	margin: 30px 0 50px;
+}
+.gallery{
+	align-content: center;
+	margin:10px 50px;
+}
+.gallery img{
+	width:230px;
+	padding: 5px;
+	filter: grayscale(100%);
+	transition: 1.5s;
+}
+.gallery img:hover{
+	filter: grayscale(0);
+	transform: scale(1.1);
+=======
+body{
+	font-family: sans-serif;
+}
+
+
+
+h1{
+	text-align: center;
+	color: forestgreen;
+	margin: 30px 0 50px;
+}
+.gallery{
+	align-content: center;
+	margin:10px 50px;
+}
+.gallery img{
+	width:230px;
+	padding: 5px;
+	filter: grayscale(100%);
+	transition: 1.5s;
+}
+.gallery img:hover{
+	filter: grayscale(0);
+	transform: scale(1.1);
+>>>>>>> 606293f74121b08d6c238835a64364a1413b8058
+}
